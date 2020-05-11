@@ -11,19 +11,19 @@ DO NOT JUST MERELY BORROW MY CODES.
 
 Some tips for VerilogHDL beginners:
 ---
--HDL is *not* Programming Language.
--Practice is the only standard for testing truth.
--Build different components of your system by discripting how they run.
--Organize those components into a system by discripting the architecture of your whole system. 
+- HDL is *not* Programming Language.
+- Practice is the only standard for testing truth.
+- Build different components of your system by discripting how they run.
+- Organize those components into a system by discripting the architecture of your whole system. 
 
 Steps of developing your own digital system:
 ---
--What's your target? What're inputs/outputs?
--Break the system in to componets.
--Figure out their ports and connections.
--Develop those parts.
--Debug.
--Finish and submit.
+- What's your target? What're inputs/outputs?
+- Break the system in to componets.
+- Figure out their ports and connections.
+- Develop those parts.
+- Debug.(testbench or with FPGAs)
+- Finish and submit.
 
 HAVE FUN AS A NEW BYR.
 ==
