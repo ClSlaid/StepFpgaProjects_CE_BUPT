@@ -1,12 +1,13 @@
 Created to write down some of my project codes in Digital Circuit Analysis Cources.
 
-Trying hard to complete all in VerilogHDL and English.
+Trying hard to complete all in VerilogHDL and in English.
 
 Commits would be made ASAP.
 
 Always *think twice* before using my disgusting code.
+Learn to write testbench,plz.
 
-DO NOT JUST MERELY BORROW MY CODES.
+**DO NOT JUST MERELY BORROW MY CODES.**
 
 
 Some tips for VerilogHDL beginners:
@@ -18,10 +19,10 @@ Some tips for VerilogHDL beginners:
 
 Steps of developing your own digital system:
 ---
-- What's your target? What're inputs/outputs?
-- Break the system in to componets.
+- What's your target? What're your inputs/outputs?
+- Break the whole system into componets.
 - Figure out their ports and connections.
-- Develop those parts.
+- Develop those parts separately.
 - Debug.(testbench or with FPGAs)
 - Finish and submit.
 
